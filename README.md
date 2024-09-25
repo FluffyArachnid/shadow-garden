@@ -1,60 +1,62 @@
-# 🌷 Flowershow template
+# 🌷
+ADHD
+-ADHD 2.0 Edward Hallowell 
+-Habits For People Who Need Them: Autism, ADHD, and the Atypical Brain Ellie Long
+-How to ADHD: An Insider's Guide to Working with Your Brain Jessica McCabe
+-The Disintegrating Self: Psychotherapy of Adult ADHD, Autistic Spectrum and Somato-psychic Disorders Phil Mollon
+-Understanding ADHD in Girls and Women Joanne Steer
 
-> Publish your Obsidian notes (or any markdown), beautifully. For free, no coding.
+Autism
+-Adults with Autism Spectrum Disorder: Overcome Executive Dysfunction, Create Your Own Intrinsic Motivation, And Strengthen Your Relationships TJ Harris
+-Autism and The Predictive Brain: Absolute Thinking in a Relative World  Peter Vermeulen
+-The Neuroscience of Autism Spectrum Disorders Joseph D Burnaum
 
-Flowershow is an open-source tool for easily converting your markdown files into an elegant website. It's built on a standard, modern web stack – React, Next.js, and Tailwind and shipped with a basic default theme to get you started with just a few clicks.
+EMDR
+-EMDR Therapy and Somatic Psychology: Interventions to Enhance Embodiment in Trauma Treatment Arielle Schwartz, Barb Maiberger, Robin Shapiro
+-EMDR Toolbox: Theory and Treatment of Complex PTSD and Dissociation 2nd Edition Paperback by James Knipe James Knipe
+-The New Change Your Brain, Change Your Pain: Based on EMDR Mark Grant
 
-- **Crafted for Obsidian**, Flowershow works with your Obsidian vault out of the box. No need to modify the syntax or change the file layout. If you're not an Obsidian fan, Flowershow can be used with any CommonMark or GFM files.
-- **Elegant and functional** default theme with basic front page and navbar.
-- **Easy to tweak and extend** with custom page layouts and custom React components, that can be used within your markdown.
-- **Backed by a team of data geeks**, who love Markdown, and are passionate about sharing knowledge and ideas with others.
+Schema
+-Breaking Negative Relationship Patterns: A Schema Therapy Self-Help and Support Book Bruce Stevens, Eckhard Roedige
 
-For full feature list see https://flowershow.app/#features
+Gestalt
+-The Emergent Self: An Existential-Gestalt Approach Peter Philippson
+-Gestalt Is John O. Stevens
 
-## [👉 See Flowershow in action on Flowershow.app](https://flowershow.app/)
+Emotionally Focused
+-Emotion-Focused Therapy for Complex Trauma: An Integrative Approach Sandra C. Paivio, Antonio Pascual-Leone
+-Help for High-Conflict Couples: Using Emotionally Focused Therapy and the Science of Attachment to Build Lasting Connection Jennine Estes Powell LMFT, Jacqueline Wielick LMFT
 
-![obsidian-vs-flowershow](https://flowershow.app/images/obsidian_vs_flowershow.png)
+Internal Family System
+-Internal Family Systems Therapy for Shame and Guilt Martha Sweezy, Richard C. Schwartz
+-No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model Richard C. Schwartz
+-You Are The One You've Been Waiting For: Bringing Courageous Love To Intimate Relationships Richard C. Schwartz
+-The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession Robert Falconer
+-Transcending Trauma: Healing Complex PTSD with Internal Family Systems Frank G. Anderson
+-The Tender Parts: A Guide to Healing from Trauma through Internal Family Systems Therapy Ilyse Kennedy
+-Trauma and Dissociation Informed Internal Family Systems: How to Successfully Treat C-PTSD, and Dissociative Disorders Joanne Twombly
 
-## Docs
+PolyVagal
+-Polyvagal Prompts: Finding Connection and Joy through Guided Explorations Courtney Rolfe, Deb Dana
+-Polyvagal Flip Chart: Understanding the Science of Safety (Norton Series on Interpersonal Neurobiology) Deb Dana
+-The Vagus nerve reset: train your body to heal stress, trauma and anxiety Anna Ferguson
+-Vagus Nerve Exercises Michael Smith
 
-https://flowershow.app/docs/
+Somatic
+-Somatic Descent: How to Unlock the Deepest Wisdom of the Body Reginald A. Ray
+-Somatic Internal Family Systems Therapy: Awareness, Breath, Resonance, Movement and Touch in Practice Susan McConnell, Richard C. Schwartz
+-Somatic Psychotherapy Toolbox: 125 Worksheets and Exercises to Treat Trauma & Stress Manuela Mischke-Reeds
+-Bessel Van der Kolk M.D] The Body Keeps The Score: Brain, Mind, and Body in The Healing of Trauma [Paperback] Bessel van der Kolk
+-The Somatic Therapy Workbook: Stress-Relieving Exercises for Strengthening the Mind-Body Connection and Sparking Emotional and Physical Healing Livia Shapiro
 
-- [Overview](https://flowershow.app/#overview)
-- [QuickStart](https://flowershow.app/docs/publish-tutorial)
-- [Roadmap](https://flowershow.app/docs/roadmap)
+Attachment Based
+-The Attachment-Based Compassion Therapy: A Manual for Self-Application Javier García-Campayo, Daniel Campos, Paola Herrera-Mercadal
 
-## Use with Obsidian Flowershow plugin
+Jungian
+-The Deep Psychology of BDSM and Kink [Jungian] Douglas Thomas
+-The Journey into Wholeness: A Jungian Guide to Discovering the Meaning of Your Life's Path Bud Harris
 
-You can use this template together with the [Flowershow Obsidian Plugin](https://github.com/datopian/obsidian-flowershow).
-See the README in the plugin repo for information on how to set it up.
-
-## Quick clone and deploy
-
-With Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/datopian/flowershow)
-
-## Forum
-
-https://github.com/flowershow/flowershow/discussions
-
-## Chat
-
-Come find us on Discord: https://discord.gg/cPxejPzpwt
-
-## Contributing
-
-If you want to contribute, you are more than welcome! You can start by checking our [project backlog](https://github.com/orgs/flowershow/projects/1).
-
-If you have an idea for improvement, and it doesn't have a corresponding issue yet, simply submit a new one.
-
-If you'd like to work on an existing issue:
-
-1. Fork the main repository.
-2. Clone the forked repository to your machine.
-3. Create a feature branch (e.g. `50-update-readme`, where `50` is the number of the related issue).
-4. Commit your changes to the feature branch.
-5. Push the feature branch to your forked repository.
-6. Create a Pull Request against the original repository.
-   - add a short description of the changes included in the PR
-7. Address review comments if requested by the reviewers.
+MISC
+-Overcoming Your Childhood Trauma Sostenes B Lima, LCSWErica Lima, LCSW
+-How to Stop Being Toxic: A Complete Roadmap to Overcome Manipulative Behaviors, Build Healthy & Meaningful Relationships and Restore Inner Peace Edward Clarke
+-Wisdom, Attachment, and Love in Trauma Therapy Susan Pease Banitt
